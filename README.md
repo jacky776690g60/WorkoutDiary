@@ -1,5 +1,7 @@
+http://jacktogon.com/workoutdiary
+
 ## Description
-This repo is dedicated to the website ***WorkoutDiary***—a website that helps you easily keep track of your workout routine. The first phase of the real website is almost complete. Everyone will be able to use it soon.
+This repo is dedicated to the website ***WorkoutDiary***—a website that helps you easily keep track of your workout routine. 
 
 # READ THIS
 If you just clone the repository, **it will not work**. This is just a small chunk of the whole projects. It is a free tool for everyone; however, it is not open source. ESPECIALLY, I recently found out some of the companies I applied to copy this repo instead of just hiring me.  
