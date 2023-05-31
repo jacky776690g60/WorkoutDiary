@@ -1,4 +1,4 @@
-http://jacktogon.com/workoutdiary
+<a href="http://jacktogon.com/workoutdiary">http://jacktogon.com/workoutdiary  I am poor student, so my server is pretty slow. You'll have to bear with me</a>
 
 ## Description
 This repo is dedicated to the website ***WorkoutDiary***—a website that helps you easily keep track of your workout routine. 
