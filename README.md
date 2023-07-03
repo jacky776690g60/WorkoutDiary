@@ -1,7 +1,7 @@
 <a href="http://jacktogon.com/workoutdiary">Website: http://jacktogon.com/workoutdiary</a>
 
 ## Description
-This repo is dedicated to the website ***WorkoutDiary***—a website that helps you easily keep track of your workout routine. 
+This repo is dedicated to the website ***WorkoutDiary***—a website that helps you easily keep track of your workout routine.
 
 # READ THIS
 If you just clone the repository, **it will not work**. This is just a small chunk of the whole projects. It is a free tool for everyone; however, it is not open source. ESPECIALLY, I recently found out some of the companies I applied to copy this repo instead of just hiring me.  
@@ -25,10 +25,8 @@ If you just clone the repository, **it will not work**. This is just a small chu
 - `Backend`:
   1. **Spring Boot**
   2. **MongoDB**
+  3. **AWS EC2**
 
-## Requirements
-- Setup environment variables
-- install npm, java 
 
 ## Color Theme
 - ![#000814](https://placehold.co/15x15/000814/000814.png) `#000814`
