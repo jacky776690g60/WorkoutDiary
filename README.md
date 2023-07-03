@@ -11,6 +11,7 @@ If you just clone the repository, **it will not work**. This is just a small chu
 | --- | --- | --- |
 | ![Image 1](samples/1.png) | ![Image 2](samples/2.png) | ![Image 3](samples/3.png) |
 | ![Image 4](samples/4.png) | ![Image 5](samples/5.png) | ![Image 6](samples/6.png) |
+| ![Image 4](samples/7.png) | | |
 
 
 ### powered by 
