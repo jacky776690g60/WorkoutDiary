@@ -1,0 +1,10 @@
+**/.DS_Store?
+
+# **/*.pem
+# **/*.pem
+# **/*.properties
+
+client/*.tar
+**/*.gz
+
+**/target
